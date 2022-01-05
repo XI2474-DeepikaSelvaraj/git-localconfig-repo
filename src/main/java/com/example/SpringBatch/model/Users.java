@@ -18,4 +18,5 @@ public class Users {
     private String name;
     private String department;
     private Integer salary;
+    private Integer demo;
 }
